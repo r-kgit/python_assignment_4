@@ -1,0 +1,5 @@
+
+
+Hello Python
+learning file handling in python
+this is final content
